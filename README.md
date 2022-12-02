@@ -2,7 +2,7 @@
 ## Objectifs :
 
 **1. Utiliser mes connaissances pour créer et héberger mon portfolio**
-![Logo Netbeans](https://cwiki.apache.org/confluence/download/attachments/75974482/netbeans-logo-2-cleanedpx64.png?version=1&modificationDate=1519886525000&api=v2)![Logo HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_64.png)
+>![Logo Netbeans](https://cwiki.apache.org/confluence/download/attachments/75974482/netbeans-logo-2-cleanedpx64.png?version=1&modificationDate=1519886525000&api=v2)![Logo HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_64.png)
   - **NetBeans**: IDE utilisé pour ce projet 
   - **HTML**: Language de description 
   - **CSS**: Language de style 
