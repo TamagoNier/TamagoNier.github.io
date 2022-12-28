@@ -1,0 +1,10 @@
+CDN : Content Delivery Network : Reseau de proxy et data centers dont le but
+est d'assurer la distrivution et l'accées aux données internet
+
+<script> integrity : attribut contenant des metadonnées permettant de verifier 
+si la ressource téléchargée n'a pas été modifiée froduleusement.  
+
+Fonction de Hashage Cryptographique : Agorithme mathematique à sens unique, 
+générant à partir d'un fichier un hash unique permetant d'identifier le ficher
+
+Algos de Hashage connus : sha1, sha2, sha256...
