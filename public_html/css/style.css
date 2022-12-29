@@ -11,5 +11,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 }
 
 .presentation img {
+    width: 128px;
     margin-right : 10px;
 }
