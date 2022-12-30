@@ -5,6 +5,19 @@
     width: 500px;
 }
 
+#presentation h2 {
+    text-align: center;
+}
+
+#presentation  {
+    display: flex;
+    flex-direction: column;
+}
+
+#presentation img {
+    width: 500px;
+    margin-left: 250px;
+}
 
 .bd-placeholder-img {
     font-size: 1.125rem;
