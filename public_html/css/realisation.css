@@ -1,6 +1,9 @@
 .jumbotron img {
     width: 500px;
 }
+.jumbotron video {
+    width: 500px;
+}
 
 
 .bd-placeholder-img {
