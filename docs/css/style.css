@@ -6,6 +6,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Created on : 13 déc. 2022, 18:25:05
     Author     : egor_
 */
+body {
+    background-color: orange;
+}
 .presentation  {
     display: flex;
 }
