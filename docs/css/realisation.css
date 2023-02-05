@@ -18,6 +18,16 @@
     margin-right: auto
 }
 
+#presentation a {
+    display: block;
+    text-align: center;
+    color: green;
+    font-size: xx-large;
+    margin-top: 20px;
+    
+    
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
